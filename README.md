@@ -1,4 +1,4 @@
-# Welcome to my AI in Science and Medicine repository
+# Welcome to my AI in Science and Medicine Repository
 
 AI in science and medicine holds immense promise for advancing our understanding of the natural world, transforming healthcare delivery, and ultimately improving human well-being. By leveraging the power of AI, we can unlock new insights, enhance medical decision-making, and pave the way for a more precise, personalized, and efficient approach to scientific research and healthcare delivery.
 
