@@ -6,7 +6,7 @@ AI in science and medicine holds immense promise for advancing our understanding
 
 This repository showcases various projects and demonstrations in the field of Python development. In this repository, you will find a collection of folders, each highlighting different aspects of application building and data manipulation. Let's delve into the contents of this repository:
 
-## Web-Based Applications with Microdot
+### Web-Based Applications with Microdot
 
 Inside this folder, you will find a demonstration of a Python script that utilizes the Microdot framework. This script enables the creation of straightforward web-based applications, empowering developers to build interactive and responsive interfaces with ease.
 
