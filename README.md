@@ -14,8 +14,8 @@ Inside this folder, you will find a demonstration of a Python script that utiliz
 
 This folder contains a series of Python codes that were successfully executed to establish a connection with a microscope and perform various operations. These codes have been designed to facilitate tasks such as image convolution using PyTorch, applying Canny edge filters to images, capturing images, and saving them to a designated folder.
 
-### AI Dashboard and Neural Network + Expert System Project
+### AI Dashboard, Neural Network + Expert System Project and an Expert System for a Survival Analysis Project
 
-Another folder within this repository houses two distinct projects. The first project centers around an AI dashboard, providing insights and visualizations for AI-related data and models. The second project combines a neural network with an expert system, leveraging the strengths of both approaches to create a powerful and intelligent system.
+Another folder within this repository houses two distinct projects. The first project centers around an AI dashboard, providing insights and visualizations for AI-related data and models. The second project combines a neural network with an expert system, leveraging the strengths of both approaches to create a powerful and intelligent system and the last project focused on survival analysis procedures and aimed to provide a structured framework for organizing different aspects of a survival analysis project.
 
 Feel free to explore the contents of this repository, dive into the code, and learn from the demonstrations provided. We hope these projects inspire you and provide valuable insights into the world of Python development and its applications. Happy exploring!
