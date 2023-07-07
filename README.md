@@ -18,4 +18,6 @@ This folder contains a series of Python codes that were successfully executed to
 
 Another folder within this repository houses two distinct projects. The first project centers around an AI dashboard, providing insights and visualizations for AI-related data and models. The second project combines a neural network with an expert system, leveraging the strengths of both approaches to create a powerful and intelligent system and the last project focused on survival analysis procedures and aimed to provide a structured framework for organizing different aspects of a survival analysis project.
 
+### Contributions
+Contributions to this project are welcome! If you have any suggestions, bug reports, or enhancements, please feel free to open an issue or submit a pull request.
 Feel free to explore the contents of this repository, dive into the code, and learn from the demonstrations provided. We hope these projects inspire you and provide valuable insights into the world of Python development and its applications. Happy exploring!
